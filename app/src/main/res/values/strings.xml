@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tweet</string>
+    <string name="tuwaiq_academy">Tuwaiq Academy | أكاديمية طويق</string>
+    <string name="tuwaiq_academy_user_name">@TuwaiqAcademy</string>
+    <string name="content_text">Steps to register in</string>
+    <string name="content_text2">Remote for available software paths Registration via the educational platform link:</string>
+    <string name="hash">#معسكر_طويق_1000</string>
+    <string name="star_codes_link">star.codes</string>
+    <string name="retweets_likes">11 Retweets 40 Likes</string>
+    <string name="date_time">9:48 PM - Oct 26,2021</string>
+    <string name="tweet_your_reply">Tweet your reply</string>
+    <string name="twitter_web_app">Twitter Web App</string>
+
+</resources>

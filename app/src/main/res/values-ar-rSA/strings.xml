@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tweet</string>
+    <string name="tuwaiq_academy">Tuwaiq Academy | أكاديمية طويق</string>
+    <string name="tuwaiq_academy_user_name">\@TuwaiqAcademy</string>
+    <string name="hash">#معسكر_طويق_1000</string>
+    <string name="star_codes_link">star.codes</string>
+    <string name="retweets_likes">11 إعادة تغريد  40إعجابات</string>
+    <string name="date_time">9:48 م - 26 أكتوبر 21</string>
+    <string name="twitter_web_app">Twitter Web App</string>
+    <string name="content_text">خطوات التسجيل في</string>
+    <string name="content_text2">عن بعد للمسارات البرمجية المتاحة التسجيل عبر رابط منسة سطر التعليمية:</string>
+    <string name="tweet_your_reply">غرد ردك</string>
+
+</resources>

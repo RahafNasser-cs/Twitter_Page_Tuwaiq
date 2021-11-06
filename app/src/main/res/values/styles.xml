@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.TipTime.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:minHeight">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">?attr/textAppearanceBody1</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+
+
+    <style name="customButton"  parent="Widget.AppCompat.ImageButton">
+        <item name="android:shape">rectangle</item>
+        <item name="cornerRadius">30dp</item>
+        <item name="color">#AEB9CD</item>
+    </style>
+
+    <style name="Widget.Registration.CompoundButton.RadioButtn"
+        parent="Widget.MaterialComponents.TimePicker.ImageButton">
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:textAppearance">?attr/textAppearanceBody1</item>
+    </style>
+</resources>
